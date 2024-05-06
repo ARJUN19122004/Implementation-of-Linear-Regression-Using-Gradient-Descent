@@ -53,6 +53,7 @@ print(x1_scaled)
 
 ## Output:
 ![image](https://github.com/ARJUN19122004/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119429483/ac014cb3-55a6-45f1-97cd-09b74b848564)
+![image](https://github.com/ARJUN19122004/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119429483/20462170-f78e-4025-9732-ba44bef0bdd2)
 
 
 
