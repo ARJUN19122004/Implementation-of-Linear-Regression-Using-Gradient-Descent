@@ -8,12 +8,21 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import the standard python libraries for Gradient design.<br>
-2.Introduce the variables needed to execute the function.<br>
-3.Use function for the representation of the graph.<br>
-4.Using for loop apply the concept using the formulae.<br>
-5.Execute the program and plot the graph. <br>
-6.Predict and execute the values for the given conditions. <br>
+STEP 1: START
+
+STEP 2:Import the standard python libraries for Gradient design.<br>
+
+STEP 3:Introduce the variables needed to execute the function.<br>
+
+STEP 4:.Use function for the representation of the graph.<br>
+
+STEP 5:Using for loop apply the concept using the formulae.<br>
+
+STEP 7:Execute the program and plot the graph. <br>
+
+STEP 8:Predict and execute the values for the given conditions. <br>
+
+STEP 9:STOP
 
 
 ## Program:
@@ -40,6 +49,7 @@ theta-=learning_rate*(1/len(X1))*X.T.dot(errors)
 return theta
 data=pd.read_csv("/content/50_Startups.csv")
 data.head()
+
 
 x=(data.iloc[1:,:-2].values)
 x1=x.astype(float)
